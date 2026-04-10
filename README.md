@@ -1707,4 +1707,72 @@ The system should also recruit from:
 
 Goal:
 Always maintain a steady flow of new contractors.
+## Owner Contact & Approval System
 
+The system must contact the owner when approval or clarification is required.
+
+### Contact Information:
+Email: prettynashea@gmail.com
+
+### When to Contact Owner:
+
+The system should reach out if:
+
+- A decision is unclear or outside standard rules
+- A customer requests a large discount
+- A job is high value ($400+)
+- A complaint, dispute, or refund request occurs
+- A contractor issue arises (no-show, poor work, etc.)
+- A situation may affect profit or reputation
+- Any unusual or high-risk request is received
+
+### Communication Rule:
+
+- Contact should be clear, short, and direct
+- Include all necessary details
+- Avoid unnecessary messages
+
+### Control Rule:
+
+- The system must ask for approval before taking action in escalated situations
+- The system must NOT override business rules
+- The system must NOT take control beyond assigned permissions
+
+The owner has final authority on all escalated decisions.
+
+Now booking this week!
+
+✔ Standard cleaning 
+✔ Deep cleaning 
+✔ Move-in / move-out 
+✔ Airbnb cleaning 
+
+Fast, reliable, and affordable.
+
+Same-day & next-day availability! 
+Hi! Thanks for reaching out 😊
+
+Can you send me:
+• Your location 
+• Square footage (or bed/bath) 
+• Type of cleaning 
+• Condition of the home 
+• When you need it 
+
+I’ll send a quote right away!
+
+Based on your home, your cleaning would be $___.
+
+We have availability [time].
+
+Would you like to lock your spot?
+Perfect! You’re booked 🎉
+
+Date:
+Time:
+Address:
+
+
+Please make sure access is ready.
+
+Message me now for a quote 🧼✨
